@@ -76,13 +76,9 @@ ga:
 primary_navigation:
   - name: Home
     url: /
-  - name: Blog
-    url: /blog/
-  - name: Document
-    url: /document/
-  - name: Document with sidenav
-    url: /document-with-sidenav/
-  - name: Document submenu
+  - name: Pricing
+    url: /pricing/
+  - name: Training Documents
     children:
       - name: Navigation link
         url: "#main-content"
@@ -90,6 +86,9 @@ primary_navigation:
         url: "#main-content"
       - name: Navigation link
         url: "#main-content"
+  - name: Contact Us
+    url: /contact/
+   
 
 secondary_navigation:
   - name: Secondary link
