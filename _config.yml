@@ -126,7 +126,7 @@ collections:
     permalink: /:path/
   documentation:
     output: true
-    permalink: /:path/
+    permalink: /documentation/:path/
 
 permalink: pretty
 
