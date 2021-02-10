@@ -124,6 +124,9 @@ collections:
   pages:
     output: true
     permalink: /:path/
+   documentation:
+    output: true
+    permalink: /:path/
 
 permalink: pretty
 
