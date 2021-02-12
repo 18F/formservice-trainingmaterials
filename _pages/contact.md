@@ -11,7 +11,7 @@ redirect_from:
 
 ### Want to use Form Service?
 
-If you're interested in using Form Service, email [**FormService**](mailto:formservice@gsa.gov). We’ll schedule a call to answer your questions and help you [get started]({{ site.baseurl }}{% link _pages/sign-up.md %}).
+If you're interested in using Form Service, email [**FormService**](mailto:formservice@gsa.gov). We’ll schedule a call to answer your questions and help you [get started]({{ site.baseurl }}).
 
 
 ### Support for people who use Form Service
