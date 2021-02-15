@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 sidenav: true
 title: Contact
 parent: contact
