@@ -1,8 +1,58 @@
 ---
 title: Document
 layout: page
-sidenav: false
+sidenav: true
 ---
+
+{% include doc-registry.html %}
+
+<div class="usa-accordion usa-accordion--bordered">
+  
+      <!-- Use the accurate heading level to maintain the document outline -->
+      <h2 class="usa-accordion__heading">
+        <button class="usa-accordion__button"
+          aria-expanded="false"
+          aria-controls="b-a1">
+          First Amendment
+        </button>
+      </h2>
+      <div id="b-a1" class="usa-accordion__content usa-prose">
+        <p>Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.</p>
+
+      </div>
+  
+      <!-- Use the accurate heading level to maintain the document outline -->
+      <h2 class="usa-accordion__heading">
+        <button class="usa-accordion__button"
+          aria-expanded="false"
+          aria-controls="b-a2">
+          Second Amendment
+        </button>
+      </h2>
+      <div id="b-a2" class="usa-accordion__content usa-prose">
+        <p>A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed.</p> <ul><li>This is a list item</li><li>Another list item</li></ul>
+
+      </div>
+  
+      <!-- Use the accurate heading level to maintain the document outline -->
+      <h2 class="usa-accordion__heading">
+        <button class="usa-accordion__button"
+          aria-expanded="false"
+          aria-controls="b-a3">
+          Third Amendment
+        </button>
+      </h2>
+      <div id="b-a3" class="usa-accordion__content usa-prose">
+        <p>No Soldier shall, in time of peace be quartered in any house, without the consent of the Owner, nor in time of war, but in a manner to be prescribed by law.</p>
+
+      </div>
+  
+      
+  
+</div>
+
+
+
 
 # Section heading (h1)
 

@@ -75,19 +75,25 @@ ga:
 # Site Navigation
 primary_navigation:
   - name: Features
-    url: /
+    children: 
+      - name: Current Features
+        url: /features
+      - name: Roadmap
+        url: /features
   - name: Pricing
     url: /pricing/
   - name: Training Documents
     children:
-      - name: documents
-        url: "documents"
+      - name: Documents
+        url: "/documents"
       - name: Navigation link
         url: "#main-content"
       - name: Navigation link
         url: "#main-content"
-  - name: Example Forms
-    url: /examples/
+  - name: Sample Forms
+    url: /samples/
+  - name: News
+    url: /news
   - name: Contact Us
     url: /contact/
    
@@ -149,7 +155,7 @@ pagination:
   # Set to 'true' to enable pagination debugging. This can be enabled in the site config or only for individual pagination pages
   debug: false
   # The default document collection to paginate if nothing is specified ('posts' is default)
-  collection: "posts"
+  collection: "documentation"
   # How many objects per paginated page, used to be `paginate` (default: 0, means all)
   per_page: 5
   # The permalink structure for the paginated pages (this can be any level deep)
