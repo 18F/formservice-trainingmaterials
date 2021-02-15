@@ -86,8 +86,8 @@ primary_navigation:
     children:
       - name: Documents
         url: "/documents"
-      - name: Navigation link
-        url: "#main-content"
+      - name: Getting Started
+        url: "/documents/getting-started"
       - name: Navigation link
         url: "#main-content"
   - name: Sample Forms
