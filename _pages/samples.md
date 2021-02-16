@@ -2,7 +2,7 @@
 layout: page
 sidenav: false
 title: Sample Forms
-parent: sampless
+parent: samples
 redirect_from:
   - /samples
 ---
