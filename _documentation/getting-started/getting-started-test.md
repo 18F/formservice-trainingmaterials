@@ -1,7 +1,7 @@
 ---
 title: Getting started test
 parent: getting-started
-layout: docs
+layout: post
 sidenav: true
 ---
 Getting Started

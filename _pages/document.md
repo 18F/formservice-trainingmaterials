@@ -1,10 +1,8 @@
 ---
 title: Document
 layout: page
-sidenav: true
+sidenav: false
 ---
-
-{% include doc-registry.html %}
 
 <div class="usa-accordion usa-accordion--bordered">
   

@@ -87,9 +87,9 @@ primary_navigation:
       - name: Documents
         url: "/documents"
       - name: Getting Started
-        url: "/documents/getting-started"
-      - name: Navigation link
-        url: "#main-content"
+        url: "/documentation/getting-started/"
+      - name: Other Documents
+        url: "/document"
   - name: Sample Forms
     url: /samples/
   - name: News
@@ -103,6 +103,16 @@ secondary_navigation:
     url: "#main-content"
   - name: Another secondary link
     url: "#main-content"
+
+documentation_navigation:
+  - name: "Overview"
+    identifier: "overview"
+    icon: fa-home
+    weight: -150
+  - name: "Getting started"
+    identifier: "getting-started"
+    icon: fa-road
+    weight: -115
 
 # Search.gov configuration
 #
@@ -134,7 +144,7 @@ collections:
     permalink: /:path/
   documentation:
     output: true
-    permalink: /documentation/:path/
+    permalink: /:collection/:path/
 
 permalink: pretty
 
