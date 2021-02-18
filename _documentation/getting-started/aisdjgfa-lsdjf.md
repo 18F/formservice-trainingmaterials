@@ -38,10 +38,27 @@ This area allows you to add and send files for signatures directly from the home
 
 3. Selecting **Select a template** opens a side menu that allows you to select any of the templates that have been created.
 
-    NOTE: See "Creating a Template" for instructions on how to create a template.
+   NOTE: See "Creating a Template" for instructions on how to create a template.
 
 ![Select a Template](/images/uploads/overview_of_esign_portal_homepage_5.png "Select a Template")
 
 ## My Documents Link
 
-Clicking the My Documents link at the top of the page opens the Documents page in the portal.
+Clicking the **My Documents** link at the top of the page opens the Documents page in the portal.
+
+![Documents Page](/images/uploads/overview_of_esign_portal_homepage_6.png "Documents Page")
+
+For more information about the Documents page, please refer to the “Overview of Documents Page” quick reference.
+
+## The Profile Link
+
+Selecting the profile link at the top of the page will open a dropdown menu of options.
+
+![Profile Link Dropdown](/images/uploads/overview_of_esign_portal_homepage_7.png "Profile Link Dropdown")
+
+From this menu, you can:
+
+1. Switch between your team and personal accounts.
+2. Access the **Documents** and **Templates** pages in the portal.
+
+**NOTE:** The other options are not applicable at this time.
