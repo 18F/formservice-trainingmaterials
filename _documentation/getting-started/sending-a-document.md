@@ -1,7 +1,7 @@
 ---
 title: Sending a Document
 parent: getting-started
-layout: docs
+layout: post
 sidenav: true
 ---
 ### Description
