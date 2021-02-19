@@ -74,6 +74,8 @@ ga:
 
 # Site Navigation
 primary_navigation:
+  - name: Sign Up
+    url: "#main-content"
   - name: Features
     children: 
       - name: Current Features
@@ -81,8 +83,8 @@ primary_navigation:
       - name: Roadmap
         url: /features
   - name: Pricing
-    url: /pricing/
-  - name: Training Documents
+    url: "#main-content"
+  - name: Documentation
     children:
       - name: Documents
         url: "/documents"
@@ -92,8 +94,6 @@ primary_navigation:
         url: "/document"
   - name: Sample Forms
     url: /samples/
-  - name: News
-    url: /news
   - name: Contact Us
     url: /contact/
    
