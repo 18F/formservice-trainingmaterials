@@ -1,7 +1,7 @@
 ---
 title: Training Stuff
 parent: getting-started
-layout: docs
+layout: post
 sidenav: true
 ---
 More training stuff:
