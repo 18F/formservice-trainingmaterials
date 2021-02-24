@@ -1,14 +1,14 @@
 ---
 title: Sending a Document
 parent: getting-started
-layout: post
+layout: training
 sidenav: true
 ---
 ### Description
 
 This quick reference provides the steps to send a document for signatures from the eSign Portal homepage.
 
-![Form Service Homepage](/images/uploads/overview_of_esign_portal_homepage_1.png "Form Service Homepage")
+![Form Service Homepage](/assets/uploads/overview_of_esign_portal_homepage_1.png "Form Service Homepage")
 
 #### Other Instructions
 
