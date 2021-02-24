@@ -4,4 +4,4 @@ parent: training
 layout: training
 sidenav: true
 ---
-![](/assets/uploads/websiteflow.png)
+![workflow](/assets/uploads/websiteflow.png)
