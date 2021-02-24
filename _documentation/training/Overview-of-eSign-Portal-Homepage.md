@@ -4,7 +4,7 @@ parent: training
 layout: training
 sidenav: true
 ---
-#Description
+# Description
 
 This quick reference provides an overview of the eSign Portal homepage. It will explain the purpose and functions of its major components.
 
@@ -16,13 +16,13 @@ Upon logging in to the portal, you will land on the home page. There are three (
 2. The **My Documents** link at the top of the page allows you to access all documents that you have sent.
 3. The **profile** link at the top of the page allows you to access various areas of the portal or switch between your personal and team accounts.
 
-#Prerequisites
+# Prerequisites
 
 * You must have an active eSign Portal account.
 
-#Instructions
+# Instructions
 
-##Add File to Sign Area
+## Add File to Sign Area
 
 This area allows you to add and send files for signatures directly from the home page. Clicking the Add file to sign button provides you with three (3) options: **Upload from computer**, **Drag and drop a file here**, or **Select a template** (if you have created/available templates).
 
@@ -42,7 +42,7 @@ This area allows you to add and send files for signatures directly from the home
 
 ![Select a Template](/assets/uploads/overview_of_esign_portal_homepage_5.png "Select a Template")
 
-##My Documents Link
+## My Documents Link
 
 Clicking the **My Documents** link at the top of the page opens the Documents page in the portal.
 
@@ -50,7 +50,7 @@ Clicking the **My Documents** link at the top of the page opens the Documents pa
 
 For more information about the Documents page, please refer to the “Overview of Documents Page” quick reference.
 
-##The Profile Link
+## The Profile Link
 
 Selecting the profile link at the top of the page will open a dropdown menu of options.
 
