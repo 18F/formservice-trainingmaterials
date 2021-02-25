@@ -8,7 +8,7 @@ sidenav: true
 
 This quick reference provides an overview of the eSign Portal homepage. It will explain the purpose and functions of its major components.
 
-![eSign Portal Homepage](/assets/uploads/overview_of_esign_portal_homepage_1.png "eSign Portal Homepage")
+![eSign Portal Homepage]({{site.baseurl}}/assets/uploads/overview_of_esign_portal_homepage_1.png "eSign Portal Homepage")
 
 Upon logging in to the portal, you will land on the home page. There are three (3) main components to the homepage:
 
