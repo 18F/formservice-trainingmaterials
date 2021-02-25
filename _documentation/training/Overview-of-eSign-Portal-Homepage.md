@@ -6,7 +6,7 @@ sidenav: true
 ---
 # Description
 
-This quick reference provides an overview of the eSign Portal homepage. It will explain the purpose and functions of its major components.
+This quick reference provides an overview of the eSign Portal homepage. It will explain the purpose and functions of its major components.  
 
 ![eSign Portal Homepage]({{site.baseurl}}/assets/uploads/overview_of_esign_portal_homepage_1.png "eSign Portal Homepage")
 
