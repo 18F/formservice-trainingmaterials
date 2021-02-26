@@ -60,9 +60,13 @@ This area allows you to add and send files for signatures directly from the home
 
 Clicking the **My Documents** link at the top of the page opens the Documents page in the portal.
 
-![Documents Page]({{site.baseurl}}/assets/uploads/overview_of_esign_portal_homepage_6.png "Documents Page")
+![Documents Page]({{site.baseurl}}/assets/uploads/overview_of_esign_portal_homepage_6.png "Documents Page")  
 
-For more information about the Documents page, please refer to the “Overview of Documents Page” quick reference.
+<p>&nbsp;</p> 
+
+For more information about the Documents page, please refer to the “Overview of Documents Page” quick reference.  
+
+<p>&nbsp;</p> 
 
 ## The Profile Link
 
