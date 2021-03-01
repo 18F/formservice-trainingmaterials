@@ -4,7 +4,7 @@ parent: training
 layout: training
 sidenav: true
 ---
- # Description
+# Description
 
 This quick reference provides an overview of the eSign Portal homepage. It will explain the purpose and functions of its major components.  
 
