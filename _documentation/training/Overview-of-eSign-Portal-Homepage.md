@@ -8,7 +8,7 @@ sidenav: true
 
 This quick reference provides an overview of the eSign Portal homepage. It will explain the purpose and functions of its major components.  
 
-![eSign Portal Homepage]({{site.baseurl}}/assets/uploads/overview_of_esign_portal_homepage_1.png "eSign Portal Homepage")  
+![eSign Portal Homepage]({{site.baseurl}}/assets/uploads/overview_of_esign_portal_homepage_1.png "eSign Portal Homepage")
 
 <p>&nbsp;</p>  
 
@@ -32,19 +32,19 @@ Upon logging in to the portal, you will land on the home page. There are three (
 
 This area allows you to add and send files for signatures directly from the home page. Clicking the Add file to sign button provides you with three (3) options: **Upload from computer**, **Drag and drop a file here**, or **Select a template** (if you have created/available templates).
 
-![Add File to Sign Area]({{site.baseurl}}/assets/uploads/overview_of_esign_portal_homepage_2.png "Add File to Sign Area")  
+![Add File to Sign Area]({{site.baseurl}}/assets/uploads/overview_of_esign_portal_homepage_2.png "Add File to Sign Area")
 
 <p>&nbsp;</p> 
 
 1. Selecting **Upload from computer** opens a file window that allows you to select a file to upload from your computer or other location.
 
-![Upload from Computer]({{site.baseurl}}/assets/uploads/overview_of_esign_portal_homepage_3.png "Upload from Computer")  
+![Upload from Computer]({{site.baseurl}}/assets/uploads/overview_of_esign_portal_homepage_3.png "Upload from Computer")
 
 <p>&nbsp;</p> 
 
 2. Selecting **Drag and drop a file here** also opens a file window and allows you to drag and drop a file from your computer or other location.
 
-![Drag and Drop a File Here]({{site.baseurl}}/assets/uploads/overview_of_esign_portal_homepage_4.png "Drag and Drop a File Here")  
+![Drag and Drop a File Here]({{site.baseurl}}/assets/uploads/overview_of_esign_portal_homepage_4.png "Drag and Drop a File Here")
 
 <p>&nbsp;</p> 
 
@@ -52,7 +52,7 @@ This area allows you to add and send files for signatures directly from the home
 
    NOTE: See "Creating a Template" for instructions on how to create a template.
 
-![Select a Template]({{site.baseurl}}/assets/uploads/overview_of_esign_portal_homepage_5.png "Select a Template")  
+![Select a Template]({{site.baseurl}}/assets/uploads/overview_of_esign_portal_homepage_5.png "Select a Template")
 
 <p>&nbsp;</p> 
 
@@ -60,7 +60,7 @@ This area allows you to add and send files for signatures directly from the home
 
 Clicking the **My Documents** link at the top of the page opens the Documents page in the portal.
 
-![Documents Page]({{site.baseurl}}/assets/uploads/overview_of_esign_portal_homepage_6.png "Documents Page")  
+![Documents Page]({{site.baseurl}}/assets/uploads/overview_of_esign_portal_homepage_6.png "Documents Page")
 
 <p>&nbsp;</p> 
 
