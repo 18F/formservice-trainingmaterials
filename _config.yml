@@ -91,7 +91,7 @@ primary_navigation:
       - name: Getting Started
         url: "/documentation/getting-started/"
       - name: Training
-        url: "TrainingOverview"
+        url: "/TrainingOverview"
   - name: Sample Forms
     url: /samples/
   - name: Contact Us
