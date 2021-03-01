@@ -1,0 +1,75 @@
+sidenav:
+  - text: Using Federalist
+    href: /documentation/
+    subfolderitems:
+      - text: Why use Federalist?
+        href: /documentation/why-use-federalist/
+      - text: Access and permissions
+        href: /documentation/access-permissions/
+      - text: Customer responsibilities
+        href: /documentation/customer-responsibilities/
+      - text: Getting started with a sandbox
+        href: /documentation/federalist-sandbox/
+      - text: "21st Century IDEA"
+        href: /documentation/21st-century-idea/
+      - text: Getting started with jekyll
+        href: /documentation/getting-started-with-jekyll/
+      - text: Getting started with Netlify CMS
+        href: /documentation/getting-started-with-netlify-cms/
+      - text: Included with Federalist
+        href: /documentation/included-with-federalist/
+      - text: Instructional demos
+        href: /documentation/instructional-demos/
+      - text: Builds and previews
+        href: /documentation/previews/
+      - text: Custom domains
+        href: /documentation/custom-domains/
+      - text: Before you launch
+        href: /documentation/before-you-launch/
+      - text: Migration guide
+        href: /documentation/migration-guide/
+      - text: Adding forms
+        href: /documentation/forms/
+      - text: Adding search 
+        href: /documentation/search/
+      - text: Site templates
+        href: /documentation/templates/
+      - text: Customizing your site
+        href: /documentation/customization/
+      - text: Using the markup languages
+        href: /documentation/resources/
+      - text: Content guide
+        href: /documentation/content-guide/
+      - text: Custom headers
+        href: /documentation/custom-headers/
+      - text: Federalist.json
+        href: /documentation/federalist-json/
+  - text: For developers
+    href: /documentation/
+    subfolderitems:
+      - text: How Federalist works
+        href: /documentation/how-federalist-works/
+      - text: How builds work
+        href: /documentation/how-builds-work/
+      - text: Specific build errors
+        href: /documentation/build-errors/
+      - text: Environment variables on builds
+        href: /documentation/env-vars-on-federalist-builds/
+      - text: Federalist and cloud.gov
+        href: /documentation/cloud-gov/
+      - text: cloud.gov setup
+        href: /documentation/cloud-gov-setup/
+      - text: Node on Federalist
+        href: /documentation/node-on-federalist/
+      - text: RVM on Federalist
+        href: /documentation/rvm-on-federalist/
+      - text: Bundler on Federalist
+        href: /documentation/bundler-on-federalist/
+      - text: Site wide alerts
+        href: /documentation/site-wide-alert/
+      - text: Supported site engines
+        href: /documentation/supported-site-engines/
+      - text: Renaming your site's repository
+        href: /documentation/renaming-site-repository/
+      - text: Monorepos on Federalist
+        href: /documentation/monorepos-on-federalist/

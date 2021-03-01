@@ -1,5 +1,5 @@
 ---
-title: test image post
+title: Test Image Post
 parent: training
 layout: training
 sidenav: true

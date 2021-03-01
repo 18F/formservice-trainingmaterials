@@ -1,26 +1,24 @@
+---
+layout: default
+---
+
 {% comment %}
-This is used for just about every page. It provides the border around the content.
-The home page uses wide.html layout, since it extends full width of page
+This is used in blog posts. The index page can be found at blog/index.html
 {% endcomment %}
 
-<!DOCTYPE html>
+<div class="usa-layout-docs usa-section">
+  <div class="grid-container">
+    <div class="grid-row grid-gap">
+      {% if page.sidenav == true %}
+      {% include sidenav.html documentation_navigation=site.training_navigation %}
+      {% endif %}
 
-<html lang="en">
-
-{% include meta.html %}
-
-<body>
-  {% include header.html %}
-
-  {% include menu.html primary_navigation=site.primary_navigation  secondary_navigation=site.secondary_navigation %}
-
-  <main id="main-content">
-    {{ content }}
-  </main>
-
-  {% include footer.html %}
-
-  {% include scripts.html %}
-</body>
-
-</html>
+      <div class="usa-layout-docs__main desktop:grid-col-8 usa-prose bg-white padding-y-8 padding-x-4">
+        <h1>{{ page.title }}</h1>
+        {{ content }}
+            
+        
+      </div>
+    </div>
+  </div>
+</div>
