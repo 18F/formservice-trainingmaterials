@@ -1,7 +1,7 @@
 ---
 title: demo
 parent: getting-started
-layout: docs
+layout: post
 sidenav: true
 ---
 demo

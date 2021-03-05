@@ -1,0 +1,13 @@
+sidenav:
+  - text: Using Federalist
+    href: /documentation/
+    subfolderitems:
+      - text: Why use Federalist?
+        href: /documentation/why-use-federalist/
+      - text: Access and permissions
+        href: /documentation/access-permissions/
+     
+  - text: For developers
+    href: /documentation/
+    subfolderitems:
+      
