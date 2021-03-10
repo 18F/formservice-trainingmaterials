@@ -60,12 +60,7 @@ collections:
       preview: true
     fields:
       - {label: "Title", name: "title", widget: "string"}
-<<<<<<< Updated upstream
       - {label: 'Parent', name: 'parent', widget: 'hidden', default: 'training'}
       - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'training'}
-=======
-      - {label: 'Parent', name: 'parent', widget: 'hidden', default: 'getting-started'}
-      - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'post'}
->>>>>>> Stashed changes
       - {label: 'Sidenav', name: 'sidenav', widget: 'hidden', default: true}
       - {label: "Body", name: "body", widget: "markdown"}
