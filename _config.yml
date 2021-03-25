@@ -93,7 +93,11 @@ primary_navigation:
       - name: Training
         url: "/TrainingOverview"
   - name: Sample Forms
-    url: /samples/
+    children:
+      - name: FHEO USWDS
+        url: "/FHEOSample1"
+      - name: FHEO Inherit
+        url: "/FHEOSample2"
   - name: Contact Us
     url: /contact/
    
