@@ -99,7 +99,7 @@ primary_navigation:
    
 
 secondary_navigation:
-  - name: Secondary link
+  - name: Platform Status
     url: "#main-content"
   - name: Another secondary link
     url: "#main-content"
