@@ -76,15 +76,11 @@ ga:
 
 # Site Navigation
 primary_navigation:
-  - name: Sign Up
+  - name: For Citizens
     url: "#main-content"
-  - name: Features
-    children: 
-      - name: Current Features
-        url: /features
-      - name: Roadmap
-        url: /features
-  - name: Pricing
+  - name: For Agencies
+    url: "#main-content"
+  - name: Blog
     url: "#main-content"
   - name: Documentation
     children:
@@ -103,7 +99,7 @@ primary_navigation:
    
 
 secondary_navigation:
-  - name: Secondary link
+  - name: Platform Status
     url: "#main-content"
   - name: Another secondary link
     url: "#main-content"
