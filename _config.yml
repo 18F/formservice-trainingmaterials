@@ -81,7 +81,7 @@ primary_navigation:
   - name: For Agencies
     url: "#main-content"
   - name: Blog
-    url: "blog"
+    url: "/blog"
   - name: Documentation
     children:
       - name: Getting Started
