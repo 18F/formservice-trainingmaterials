@@ -131,19 +131,19 @@ training_navigation:
 # 1. Create an account with Search.gov https://search.usa.gov/signup
 # 2. Add a new site.
 # 3. Add your site/affiliate name here.
-searchgov: forms.gov
+#searchgov: forms.gov
 
   # You should not change this.
-  endpoint: https://search.usa.gov
+ # endpoint: https://search.usa.gov
 
   # replace this with your search.gov account
-  affiliate: forms.gov
+  #affiliate: forms.gov
 
   # replace with your access key
-  access_key: rMyg9ov-LuQBltlNDbT3voK7Qn206Eo5iu6X4m-OsN8=
+  #access_key: rMyg9ov-LuQBltlNDbT3voK7Qn206Eo5iu6X4m-OsN8=
 
   # this renders the results within the page instead of sending to user to search.gov
-  inline: true
+  #inline: true
 
 ##########################################################################################
 # The values below here are more advanced and should only be
