@@ -2,7 +2,7 @@
 title: Sending a Document
 parent: getting-started
 layout: training
-sidenav: true
+sidenav: false
 ---
 ### Description
 

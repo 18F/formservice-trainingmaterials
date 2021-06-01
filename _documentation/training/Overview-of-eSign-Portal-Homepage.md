@@ -2,7 +2,7 @@
 title: Overview of eSign Portal Homepage
 parent: training
 layout: training
-sidenav: true
+sidenav: false
 ---
 # Description
 
