@@ -4,4 +4,4 @@ parent: getting-started
 layout: post
 sidenav: false
 ---
-![](/assets/uploads/websiteflow.png "Website Flow")
+![workflow](/assets/uploads/websiteflow.png "Website Flow")
