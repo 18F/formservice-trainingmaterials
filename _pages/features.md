@@ -1,6 +1,6 @@
 ---
 layout: page
-sidenav: true
+sidenav: false
 title: Features
 parent: features
 redirect_from:
