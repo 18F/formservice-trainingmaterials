@@ -2,6 +2,6 @@
 title: Test Image Post
 parent: training
 layout: training
-sidenav: true
+sidenav: false
 ---
-![workflow](/assets/uploads/websiteflow.png)
+![workflow](/assets/uploads/websiteflow.png "Website Flow")

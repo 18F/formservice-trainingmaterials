@@ -1,6 +1,6 @@
 ---
 layout: training
-sidenav: true
+sidenav: false
 title: Training Overview
 parent: contact
 redirect_from:
