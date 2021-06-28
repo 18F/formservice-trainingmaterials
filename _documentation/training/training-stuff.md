@@ -2,7 +2,7 @@
 title: Training Stuff
 parent: getting-started
 layout: post
-sidenav: true
+sidenav: false
 ---
 More training stuff:
 

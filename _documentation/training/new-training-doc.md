@@ -2,7 +2,7 @@
 title: New Training Doc
 parent: training
 layout: training
-sidenav: true
+sidenav: false
 ---
 New training entry with some things and stuff and such:
 

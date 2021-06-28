@@ -84,8 +84,6 @@ primary_navigation:
     url: "/blog"
   - name: Documentation
     children:
-      - name: Getting Started
-        url: "/documentation/getting-started/"
       - name: Training
         url: "/TrainingOverview"
   - name: Sample Forms
