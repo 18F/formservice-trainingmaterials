@@ -5,7 +5,7 @@
 
   https://circleci.com/
 -->
-[![CircleCI](https://circleci.com/gh/18F/federalist-uswds-jekyll.svg?style=svg)](https://circleci.com/gh/18F/federalist-uswds-jekyll)
+[![CircleCI](https://circleci.com/gh/18F/formservice-trainingmaterals.svg?style=svg)](https://circleci.com/gh/18F/formservice-trainingmaterals)
 
 [![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=18F/federalist-uswds-jekyll)](https://dependabot.com)
 
