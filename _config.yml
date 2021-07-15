@@ -88,6 +88,8 @@ primary_navigation:
         url: "/TrainingOverview"
   - name: Sample Forms
     children:
+      - name: MiA Waiver Request
+        url: "/miawaiver"
       - name: FHEO USWDS
         url: "/FHEOSample1"
       - name: FHEO Inherit
