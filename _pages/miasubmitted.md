@@ -1,5 +1,5 @@
 ---
-layout: wide
+layout: page
 sidenav: false
 title: MiA Submitted
 permalink: /miasubmitted/
@@ -10,3 +10,5 @@ permalink: /miasubmitted/
 
 We sent you a confirmation email with your waiver request ID number.
 We'll review your waiver request as soon as possible, and we'll contact you if we need more information.
+
+<br/><br/>
