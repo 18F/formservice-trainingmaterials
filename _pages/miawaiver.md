@@ -13,8 +13,7 @@ redirect_from:
 	<div class="grid-container">
 		<div class="full-row grid-row padding-top-2 grid-gap">
 			<div class="grid-col-12">
-					
-				<script src="https://cdn.test-form.io/formiojs/formio.embed.js?src=https://portal-test.forms.gov/dev/miaworkflow&template=uswds&libs=true&redirect=https://https://federalist-79f7e611-1f9f-4905-8ed6-1e001e940242.app.cloud.gov/demo/18f/formservice-trainingmaterials/miasubmitted/"></script>
+				<script src="https://cdn.test-form.io/formiojs/formio.embed.js?src=https://portal-test.forms.gov/dev/miaworkflow&template=uswds&libs=true&redirect=https://federalist-79f7e611-1f9f-4905-8ed6-1e001e940242.app.cloud.gov/demo/18f/formservice-trainingmaterials/miasubmitted/"></script>
 			</div>	
 		</div>
 	</div>	
