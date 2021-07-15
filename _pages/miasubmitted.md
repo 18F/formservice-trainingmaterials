@@ -2,9 +2,8 @@
 layout: wide
 sidenav: false
 title: MiA Submitted
-parent: samples
-redirect_from:
-  - /samples
+permalink: /miasubmitted/
+
 ---
 
     <div id="home">

@@ -1,7 +1,7 @@
 ---
 layout: wide
 sidenav: false
-title: Sample Forms
+title: MiA Waiver Request
 parent: samples
 redirect_from:
   - /samples
