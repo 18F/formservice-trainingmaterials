@@ -15,7 +15,7 @@ redirect_from:
 			<div class="grid-col-12">
 
 				
-				<script src="https://portal-test.forms.gov/hackerone-dev/manage/view/assets/lib/offline/formio.offline.min.js?base=https://portal-test.forms.gov&project=https://portal-test.forms.gov/hackerone-dev&src=https://portal-test.forms.gov/hackerone-dev/demoform&libs=true"></script>
+				<script src="https://portal-test.forms.gov/hackerone-dev/manage/view/assets/lib/offline/formio.offline.min.js?base=https://portal-test.forms.gov&project=https://portal-test.forms.gov/hackerone-dev&src=https://portal-test.forms.gov/hackerone-dev/demoform&libs=true&redirect=https://federalist-79f7e611-1f9f-4905-8ed6-1e001e940242.app.cloud.gov/demo/18f/formservice-trainingmaterials/miasubmitted"></script>
 				
 				
 			</div>	
