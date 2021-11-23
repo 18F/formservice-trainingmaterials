@@ -90,10 +90,10 @@ primary_navigation:
     children:
       - name: MiA Waiver Request
         url: "/miawaiver"
-      - name: FHEO USWDS
-        url: "/FHEOSample1"
-      - name: FHEO Inherit
-        url: "/FHEOSample2"
+      - name: Hacker One - Hub
+        url: "/HackerOneHub"
+      - name: Hacker One - Submission
+        url: "/HackerOneSub"
   - name: Contact Us
     url: /contact/
    
