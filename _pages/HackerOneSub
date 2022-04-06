@@ -15,7 +15,7 @@ redirect_from:
 			<div class="grid-col-12">
 
 				
-				<script src="https://submission-test.forms.gov/faas-dev/manage/view/assets/lib/offline/formio.offline.min.js?base=https://submisison-test.forms.gov&project=https://submission-test.forms.gov/faas-dev&src=https://submission-test.forms.gov/faas-dev/ryannewupload&libs=true"></script>
+				<script src="https://cdn.test-form.io/formiojs/formio.embed.js?src=https://submission-test.forms.gov/faas-dev/ryannewupload&template=uswds&libs=true&redirect=https://federalist-79f7e611-1f9f-4905-8ed6-1e001e940242.app.cloud.gov/demo/18f/formservice-trainingmaterials/miasubmitted/"></script>
 				
 				
 			</div>	
