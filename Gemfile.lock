@@ -59,7 +59,7 @@ GEM
       nokogiri (~> 1.8)
       pathutil (~> 0.16)
       sprockets (>= 3.3, < 4.1.beta)
-    jekyll-feed (0.15.1)
+    jekyll-feed (0.16.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-paginate-v2 (3.0.0)
       jekyll (>= 3.0, < 5.0)
@@ -75,7 +75,7 @@ GEM
       jekyll (>= 3.7, < 5.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
-    kramdown (2.3.2)
+    kramdown (2.4.0)
       rexml
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
@@ -99,7 +99,7 @@ GEM
     parallel (1.20.1)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    public_suffix (4.0.6)
+    public_suffix (4.0.7)
     racc (1.6.0)
     rack (2.2.3)
     rainbow (3.0.0)
@@ -134,7 +134,7 @@ DEPENDENCIES
   html-proofer (~> 3.19)
   jekyll (~> 3.9)
   jekyll-assets (~> 3.0)
-  jekyll-feed (~> 0.15)
+  jekyll-feed (~> 0.16)
   jekyll-paginate-v2 (= 3.0.0)
   jekyll-redirect-from
   jekyll-seo-tag
